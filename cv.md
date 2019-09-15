@@ -13,3 +13,13 @@ At this moment my goal is to learn web programming to have a chance to be a deve
 
 ## Skills:
 `Languages:` HTML5, CSS3, JavaScript
+
+## Education:
+* 2010-2013: Brest State Technical College, Industrial and civil development.
+* Codecademy: [Achievements](https://www.codecademy.com/users/MaksimArsianiuk/achievements)
+* Freecodecamp : Finished HTML,CSS,JavaScript basics courses
+
+
+## Foreight languages:
+`English:`A2 (Studied english for 5 years at school and later had a speaking practice during my travels)  
+`Polish:`B2
