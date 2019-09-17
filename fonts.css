@@ -1,0 +1,14 @@
+@font-face {
+  src: url(assets/fonts/stiffbrushjk.otf);
+  font-family: stiff;
+}
+
+@font-face {
+  src: url(assets/fonts/Our-Goal.ttf);
+  font-family: goal;
+}
+
+@font-face {
+  src: url(assets/fonts/Chilanka-Regular.ttf);
+  font-family: chilanka;
+}
