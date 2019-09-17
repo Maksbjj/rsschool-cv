@@ -23,3 +23,23 @@ At this moment my goal is to learn web programming to have a chance to be a deve
 ## Foreight languages:
 `English:`A2 (Studied english for 5 years at school and later had a speaking practice during my travels)  
 `Polish:`B2
+
+## Code example: (click increase font size)
+
+```
+let button = document.querySelector('button');
+
+let size = 10;
+let items = document.querySelectorAll('li');
+
+function addFontSize() {
+
+  for (let i = 0; i < items.length; i++) {
+    items[i].style.fontSize = size + 'px'
+    items[i].style.display = 'block'
+  };
+  size++;
+}
+
+button.addEventListener('click', addFontSize)
+```
